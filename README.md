@@ -1,2 +1,3 @@
-# SWD2-Oct25
-Dummy github repository for the Oct 2025 delivery of the SWD2 training. Delete after October!
+# Welcome to SWD2 in October 2025!
+
+Let's learn git together...who's with me? (enter your name below)
